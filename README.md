@@ -1,2 +1,15 @@
 # game_dino_vc6
 My dino game VC6 port
+
+## ref  
+* https://github.com/makerdiary/nrf52840-m2-devkit  
+* https://github.com/makerdiary/python-games-on-microcontroller  
+* search baidupan, dino_v3_6.rar  
+
+## NOTE  
+* To adjust fps, search FRAME_SLEEP  
+* See Display::show for render method    
+* Init is demo mode, press space keyboard to enter game mode  
+
+## TODO  
+* TileGrid::set_flip_x not implemented  
