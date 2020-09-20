@@ -13,3 +13,4 @@ My dino game VC6 port
 
 ## TODO  
 * TileGrid::set_flip_x not implemented  
+* Embed bmp data into code  
