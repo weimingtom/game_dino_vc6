@@ -1,8 +1,8 @@
 # game_dino_vc6
 My dino game VC6 port
 
-## ref  
-* https://github.com/makerdiary/nrf52840-m2-devkit  
+## Ref  
+* https://github.com/makerdiary/nrf52840-m2-devkit/blob/master/examples/python/dino/dino.py  
 * https://github.com/makerdiary/python-games-on-microcontroller  
 * search baidupan, dino_v3_6.rar  
 
